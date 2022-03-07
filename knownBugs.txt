@@ -1,0 +1,12 @@
+filename
+functionName
+Description
+
+arithmetic.c
+mult
+When trying to multiply 1.5 with itself function returns 0.
+
+arithmetic.c
+mysqrt
+This function returns only 0. As it is dependent on the mult function
+this bug can only be fixed after fixing the mult-function.
